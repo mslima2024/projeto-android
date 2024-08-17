@@ -60,7 +60,7 @@ header p {
     font-size: 1.2em;
     text-shadow: 2px 2px 0px hsla(0, 0%, 0%, 0.267);
     color: white;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     padding-right: 10px;
     padding-left: 10px;
     max-width: 500px;
